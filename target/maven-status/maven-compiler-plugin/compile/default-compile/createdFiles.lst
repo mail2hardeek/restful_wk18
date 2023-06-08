@@ -1,0 +1,13 @@
+com\restfulbooker\wk18\model\UpdateBookingPojo$BookingDates.class
+com\restfulbooker\wk18\model\BookingPojo$BookingDates.class
+com\restfulbooker\wk18\utils\TestUtils.class
+com\restfulbooker\wk18\restfulinfo\DeleteSteps.class
+com\restfulbooker\wk18\model\UpdateBookingPojo.class
+com\restfulbooker\wk18\constants\EndPoints.class
+com\restfulbooker\wk18\model\AuthorisationPojo.class
+com\restfulbooker\wk18\model\BookingPojo.class
+com\restfulbooker\wk18\utils\PropertyReader.class
+com\restfulbooker\wk18\restfulinfo\UpdateSteps.class
+com\restfulbooker\wk18\restfulinfo\ReadSteps.class
+com\restfulbooker\wk18\restfulinfo\CreateSteps.class
+com\restfulbooker\wk18\model\PatchBookingPojo.class
